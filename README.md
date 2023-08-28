@@ -5,6 +5,7 @@
 ## Técnologias utilizadas
 * NodeJs
 * Selenium-webdriver
+* Decompress
 * Nodemon --dev
 
 ### Dependências Extras
